@@ -42,4 +42,4 @@ Experimental files (no longer used and mostly disorganized):
 - Input state → agent → output action weights → adjust traffic generation and update neural network → repeat.
 
 ## Authors and acknowledgment
-Primarily authored by Neil Kachappilly, with contributions from Nathan Moos and Altanai Bisht.
+Primarily authored by Neil Kachappilly, with contributions from Nathan Moos and Altanai Bisht (Cisco Meraki).
